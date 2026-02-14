@@ -8,7 +8,7 @@ subtitle: Customizing Beautiful Jekyll
 
 There are only three simple steps to launch your site.
 
-<img src="/img/install-steps.gif" style="width:100%;" alt="Installation steps" />
+<img src="https://beautifuljekyll.com/assets/img/install-steps.gif" style="width:100%;" alt="Installation steps" />
 
 <div class="gs-section-01" markdown="1">
 
