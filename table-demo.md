@@ -22,7 +22,7 @@ gosling:
 ---
 
 
-![]({{site.url}}/assets/img/ryan-v-ryan.jpg)  
+<img src="/assets/img/ryan-v-ryan.jpg" style="width:100%;" alt="Ryan vs Ryan" />
 
 
 ## Lorem Ipsum
